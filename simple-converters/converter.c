@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
 /*
-skullar5 - 251292956
 This program converts measuring units. The program prompts user for user input asking them to specify what type of conversion they want (ex. kg to pounds)
 and once user has specified what type of conversion they want (by choosing integer 1 to 4 (if user enters 5, that means they quit)), user is asked to enter a letter indicated in the instructions which will decide
 the order of the conversion meaning for example K for kg to pounds and P for pounds to kg and once user entered character then user will be asked to enter a number they want
