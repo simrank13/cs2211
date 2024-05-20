@@ -1,1 +1,1 @@
-## Movie Theater Database Using Array
+# Movie Theater Database Using Array
