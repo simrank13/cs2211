@@ -1,5 +1,4 @@
 /*
-skullar5 - 251292956
 This program implements and designs a database with the movies along with the movie codes, title, genre and rating in this theater.
 It manages a movie database with operations to insert, search for, update, and print movie information as well as quit the program
 */
