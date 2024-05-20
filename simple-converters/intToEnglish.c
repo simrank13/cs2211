@@ -1,5 +1,4 @@
 /*
-skullar5 - 251292956
 This program asks user to enter a number between 0 to 99, 0 for quit and and will not convert to english words
 for any integer less than 0 and greater than 999 or that contains a decimal (is a float number) but if user enters
 an integer from 1 to 999, it will convert the value user entered in english words. For example, 999 is nine hundred
