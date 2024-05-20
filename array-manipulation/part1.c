@@ -1,5 +1,4 @@
 /*
-skullar5 - 251292956
 This program asks user for how many integer they will provide with minimum of 5 and maximum of 12 integers, 
 prints the number use gave and size of array in byte, prompts user for list of integers, 
 prints elements of array and their positions (part1), prints elements of array in reverse and their positions (part2), 
