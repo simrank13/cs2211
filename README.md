@@ -1,2 +1,2 @@
 # cs2211
-CS 2211: Systems Programming
+CS 2211: Software Tools and Systems Programming
